@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build output (generated from source — not committed)
+dist/
+
+# npm lockfile is committed to repos that are npm packages
+# but since this is also a publishable package, keep package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# npm pack output
+*.tgz
