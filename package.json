@@ -1,11 +1,15 @@
 {
   "name": "tabby-ssh-config-import",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An AI-generated plugin for Tabby terminal that filters open tabs by profile groups.",
-  "keywords": ["tabby-plugin"],
+  "keywords": [
+    "tabby-plugin"
+  ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "author": "hsdelirium",
   "license": "MIT",
   "repository": {
